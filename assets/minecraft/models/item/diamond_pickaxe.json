@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_pickaxe"
+    },
+    "overrides": [
+        { "predicate": {"damage": 0.20}, "model": "item/emerald_picaxe"},
+        { "predicate": {"damage": 0.40}, "model": "item/sapphire_picaxe"},
+        { "predicate": {"damage": 0.60}, "model": "item/amethest_picaxe"},
+        { "predicate": {"damage": 0.80}, "model": "item/ice_picaxe"}
+    ]
+}

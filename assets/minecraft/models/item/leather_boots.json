@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_boots",
+        "layer1": "item/leather_boots_overlay"
+    },
+	 "overrides": [
+        { "predicate": {"damage": 1.0}, "model": "item/rainbow_boots"}
+		]
+}

@@ -1,0 +1,13 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/wooden_sword"
+    },
+    "overrides": [
+        { "predicate": {"damage": 0.10}, "model": "item/victorian_sword"},
+        { "predicate": {"damage": 0.20}, "model": "item/steampunk_sword"},
+        { "predicate": {"damage": 0.90}, "model": "item/jungle_sword"},
+        { "predicate": {"damage": 0.93}, "model": "item/tarzan_sword"},
+		{ "predicate": {"damage": 0.96}, "model": "item/mummy_sword"}
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_sword"
+    },
+    "overrides": [
+        { "predicate": {"damage": 0.20}, "model": "item/emerald_sword"},
+        { "predicate": {"damage": 0.40}, "model": "item/sapphire_sword"},
+        { "predicate": {"damage": 0.60}, "model": "item/amethest_sword"},
+        { "predicate": {"damage": 0.80}, "model": "item/ice_sword"},
+        { "predicate": {"damage": 0.95}, "model": "item/pickle_rick"}
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_pickaxe"
+    },
+    "overrides": [
+        { "predicate": {"damage": 0.50}, "model": "item/light_picaxe"}
+    ]
+}

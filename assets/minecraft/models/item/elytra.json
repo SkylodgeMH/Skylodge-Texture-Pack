@@ -1,0 +1,15 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/broken_elytra"
+    },
+    "overrides": [{ "predicate": {"damage": 0.01}, "model": "item/normal_elytra"},
+	{ "predicate": {"damage": 0.10}, "model": "item/beacon_elytra"},
+        {
+            "predicate": {
+                "broken": 1
+            },
+            "model": "item/broken_elytra"
+        }
+    ]
+}

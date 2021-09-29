@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/netherite_sword"
+    },
+    "overrides": [
+        { "predicate": {"damage": 0.20}, "model": "item/ruby_sword"},
+        { "predicate": {"damage": 0.40}, "model": "item/obsidian_sword"},
+        { "predicate": {"damage": 0.60}, "model": "item/magma_sword"},
+        { "predicate": {"damage": 0.85}, "model": "item/koth_blade"},
+        { "predicate": {"damage": 1.0}, "model": "item/rainbow_sword"}
+
+    ]
+}

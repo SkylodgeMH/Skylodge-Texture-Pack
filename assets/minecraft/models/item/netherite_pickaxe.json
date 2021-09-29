@@ -1,0 +1,25 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/netherite_pickaxe"
+    },
+    "overrides": [
+		{ "predicate": {"damage": 0.01}, "model": "item/ultra_picaxe"},
+		{ "predicate": {"damage": 0.02}, "model": "item/legendary_picaxe"},
+		{ "predicate": {"damage": 0.03}, "model": "item/golddigger_picaxe"},
+		{ "predicate": {"damage": 0.04}, "model": "item/summer_picaxe"},
+		{ "predicate": {"damage": 0.05}, "model": "item/platinum_picaxe"},
+		{ "predicate": {"damage": 0.06}, "model": "item/back2school_picaxe"},
+        { "predicate": {"damage": 0.10}, "model": "item/mummy_picaxe"},
+        { "predicate": {"damage": 0.20}, "model": "item/ruby_picaxe"},
+        { "predicate": {"damage": 0.30}, "model": "item/victorian_picaxe"},
+        { "predicate": {"damage": 0.40}, "model": "item/obsidian_picaxe"},
+        { "predicate": {"damage": 0.50}, "model": "item/steampunk_picaxe"},
+        { "predicate": {"damage": 0.60}, "model": "item/magma_picaxe"},
+        { "predicate": {"damage": 0.70}, "model": "item/light_picaxe"},
+        { "predicate": {"damage": 0.80}, "model": "item/void_picaxe"},
+        { "predicate": {"damage": 0.90}, "model": "item/jungle_picaxe"},
+        { "predicate": {"damage": 0.95}, "model": "item/tarzan_picaxe"},
+        { "predicate": {"damage": 1.0}, "model": "item/rainbow_picaxe"}
+    ]
+}

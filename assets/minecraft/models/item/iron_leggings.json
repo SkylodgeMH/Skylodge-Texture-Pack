@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/iron_leggings"
+    },
+	 "overrides": [
+        { "predicate": {"damage": 1.0}, "model": "item/platinum_leggings"}
+		]
+}
