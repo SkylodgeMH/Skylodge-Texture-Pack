@@ -5,6 +5,22 @@
         "layer1": "item/leather_chestplate_overlay"
     },
 	 "overrides": [
-        { "predicate": {"damage": 1.0}, "model": "item/rainbow_chestplate"}
+        { "predicate": {"damage": 1.0}, "model": "item/rainbow_chestplate"},
+		{ "predicate": {"custom_model_data": 1}, "model": "item/emerald_chestplate"},
+		{ "predicate": {"custom_model_data": 2}, "model": "item/sapphire_chestplate"},
+		{ "predicate": {"custom_model_data": 3}, "model": "item/ruby_chestplate"},
+		{ "predicate": {"custom_model_data": 4}, "model": "item/amethyst_chestplate"},
+		{ "predicate": {"custom_model_data": 5}, "model": "item/obsidian_chestplate"},
+		{ "predicate": {"custom_model_data": 6}, "model": "item/ice_chestplate"},
+		{ "predicate": {"custom_model_data": 7}, "model": "item/mummy_chestplate"},
+		{ "predicate": {"custom_model_data": 8}, "model": "item/magma_chestplate"},
+		{ "predicate": {"custom_model_data": 9}, "model": "item/light_chestplate"},
+		{ "predicate": {"custom_model_data": 10}, "model": "item/luminous_chestplate"},
+		{ "predicate": {"custom_model_data": 11}, "model": "item/shadow_chestplate"},
+		{ "predicate": {"custom_model_data": 12}, "model": "item/void_chestplate"},
+		{ "predicate": {"custom_model_data": 13}, "model": "item/victorian_chestplate"},
+		{ "predicate": {"custom_model_data": 14}, "model": "item/steampunk_chestplate"},
+		{ "predicate": {"custom_model_data": 15}, "model": "item/jungle_chestplate"},
+		{ "predicate": {"custom_model_data": 16}, "model": "item/tarzan_chestplate"}
 		]
 }
