@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/victorian_helmet"
+    "layer0": "minecraft:item/victorian_helmet",
+    "layer1": "minecraft:item/victorian_helmet"
   }
 }
