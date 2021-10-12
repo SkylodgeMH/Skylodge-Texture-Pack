@@ -3,23 +3,25 @@
     "textures": {
         "layer0": "item/netherite_pickaxe"
     },
-    "overrides": [
-		{ "predicate": {"damage": 0.01}, "model": "item/ultra_picaxe"},
-		{ "predicate": {"damage": 0.02}, "model": "item/legendary_picaxe"},
-		{ "predicate": {"damage": 0.03}, "model": "item/golddigger_picaxe"},
-		{ "predicate": {"damage": 0.04}, "model": "item/summer_picaxe"},
-		{ "predicate": {"damage": 0.05}, "model": "item/platinum_picaxe"},
-		{ "predicate": {"damage": 0.06}, "model": "item/back2school_picaxe"},
-        { "predicate": {"damage": 0.10}, "model": "item/mummy_picaxe"},
-        { "predicate": {"damage": 0.20}, "model": "item/ruby_picaxe"},
-        { "predicate": {"damage": 0.30}, "model": "item/victorian_picaxe"},
-        { "predicate": {"damage": 0.40}, "model": "item/obsidian_picaxe"},
-        { "predicate": {"damage": 0.50}, "model": "item/steampunk_picaxe"},
-        { "predicate": {"damage": 0.60}, "model": "item/magma_picaxe"},
-        { "predicate": {"damage": 0.70}, "model": "item/light_picaxe"},
-        { "predicate": {"damage": 0.80}, "model": "item/void_picaxe"},
-        { "predicate": {"damage": 0.90}, "model": "item/jungle_picaxe"},
-        { "predicate": {"damage": 0.95}, "model": "item/tarzan_picaxe"},
-        { "predicate": {"damage": 1.0}, "model": "item/rainbow_picaxe"}
+    "overrides": [	
+		{ "predicate": {"custom_model_data": 1}, "model": "item/emerald/emerald_pickaxe"},
+		{ "predicate": {"custom_model_data": 2}, "model": "item/sapphire/sapphire_pickaxe"},
+		{ "predicate": {"custom_model_data": 3}, "model": "item/ruby/ruby_pickaxe"},
+		{ "predicate": {"custom_model_data": 4}, "model": "item/amethyst/amethyst_pickaxe"},
+		{ "predicate": {"custom_model_data": 5}, "model": "item/obsidian/obsidian_pickaxe"},
+		{ "predicate": {"custom_model_data": 6}, "model": "item/ice/ice_pickaxe"},
+		{ "predicate": {"custom_model_data": 7}, "model": "item/mummy/mummy_pickaxe"},
+		{ "predicate": {"custom_model_data": 8}, "model": "item/magma/magma_pickaxe"},
+		{ "predicate": {"custom_model_data": 9}, "model": "item/light/light_pickaxe"},
+		{ "predicate": {"custom_model_data": 10}, "model": "item/luminous/luminous_pickaxe"},
+		{ "predicate": {"custom_model_data": 11}, "model": "item/shadow/shadow_pickaxe"},
+		{ "predicate": {"custom_model_data": 12}, "model": "item/void/void_pickaxe"},
+		{ "predicate": {"custom_model_data": 13}, "model": "item/victorian/victorian_pickaxe"},
+		{ "predicate": {"custom_model_data": 14}, "model": "item/steampunk/steampunk_pickaxe"},
+		{ "predicate": {"custom_model_data": 15}, "model": "item/jungle/jungle_pickaxe"},
+		{ "predicate": {"custom_model_data": 16}, "model": "item/tarzan/tarzan_pickaxe"},
+		{ "predicate": {"custom_model_data": 17}, "model": "item/angel/angel_pickaxe"},
+		{ "predicate": {"custom_model_data": 18}, "model": "item/archangel/archangel_pickaxe"},
+		{ "predicate": {"custom_model_data": 19}, "model": "item/trumpeteer_pickaxe"}
     ]
 }

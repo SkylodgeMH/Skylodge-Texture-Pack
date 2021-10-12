@@ -4,11 +4,24 @@
         "layer0": "item/netherite_sword"
     },
     "overrides": [
-        { "predicate": {"damage": 0.20}, "model": "item/ruby_sword"},
-        { "predicate": {"damage": 0.40}, "model": "item/obsidian_sword"},
-        { "predicate": {"damage": 0.60}, "model": "item/magma_sword"},
-        { "predicate": {"damage": 0.85}, "model": "item/koth_blade"},
-        { "predicate": {"damage": 1.0}, "model": "item/rainbow_sword"}
-
+		{ "predicate": {"custom_model_data": 1}, "model": "item/emerald/emerald_sword"},
+		{ "predicate": {"custom_model_data": 2}, "model": "item/sapphire/sapphire_sword"},
+		{ "predicate": {"custom_model_data": 3}, "model": "item/ruby/ruby_sword"},
+		{ "predicate": {"custom_model_data": 4}, "model": "item/amethyst/amethyst_sword"},
+		{ "predicate": {"custom_model_data": 5}, "model": "item/obsidian/obsidian_sword"},
+		{ "predicate": {"custom_model_data": 6}, "model": "item/ice/ice_sword"},
+		{ "predicate": {"custom_model_data": 7}, "model": "item/mummy/mummy_sword"},
+		{ "predicate": {"custom_model_data": 8}, "model": "item/magma/magma_sword"},
+		{ "predicate": {"custom_model_data": 9}, "model": "item/light/light_scythe"},
+		{ "predicate": {"custom_model_data": 10}, "model": "item/luminous/luminous_scythe"},
+		{ "predicate": {"custom_model_data": 11}, "model": "item/shadow/shadow_scythe"},
+		{ "predicate": {"custom_model_data": 12}, "model": "item/void/void_scythe"},
+		{ "predicate": {"custom_model_data": 13}, "model": "item/victorian/victorian_sword"},
+		{ "predicate": {"custom_model_data": 14}, "model": "item/steampunk/steampunk_sword"},
+		{ "predicate": {"custom_model_data": 15}, "model": "item/jungle/jungle_sword"},
+		{ "predicate": {"custom_model_data": 16}, "model": "item/tarzan/tarzan_sword"},
+		{ "predicate": {"custom_model_data": 17}, "model": "item/angel/angel_sword"},
+		{ "predicate": {"custom_model_data": 18}, "model": "item/archangel/archangel_sword"},
+		{ "predicate": {"custom_model_data": 19}, "model": "item/trumpeteer_sword"}
     ]
 }

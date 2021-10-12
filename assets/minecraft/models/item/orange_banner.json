@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/orange_banner"
+    "layer0": "minecraft:item/crate/orange_banner"
   }
 }

@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/iron_ingot"
   },
     "overrides": [
-        { "predicate": {"custom_model_data": 1}, "model": "item/platinum_ingot"}
+        { "predicate": {"custom_model_data": 1}, "model": "item/extra/platinum_ingot"}
     ]
 }

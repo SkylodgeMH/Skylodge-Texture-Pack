@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/void/void_chestplate",
+    "layer1": "minecraft:item/void/void_chestplate"
+  }
+}

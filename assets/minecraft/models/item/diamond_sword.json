@@ -4,10 +4,10 @@
         "layer0": "item/diamond_sword"
     },
     "overrides": [
-        { "predicate": {"damage": 0.20}, "model": "item/emerald_sword"},
-        { "predicate": {"damage": 0.40}, "model": "item/sapphire_sword"},
-        { "predicate": {"damage": 0.60}, "model": "item/amethest_sword"},
-        { "predicate": {"damage": 0.80}, "model": "item/ice_sword"},
-        { "predicate": {"damage": 0.95}, "model": "item/pickle_rick"}
+		{ "predicate": {"custom_model_data": 1}, "model": "item/rainbow/rainbow_sword"},
+		{ "predicate": {"custom_model_data": 2}, "model": "item/platinum/platinum_sword"},
+		{ "predicate": {"custom_model_data": 3}, "model": "item/extra/pickle_rick"},
+		{ "predicate": {"custom_model_data": 3}, "model": "item/extra/koth_blade"}
+		
     ]
 }
