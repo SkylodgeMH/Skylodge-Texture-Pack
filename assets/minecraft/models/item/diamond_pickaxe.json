@@ -5,10 +5,11 @@
     },
     "overrides": [		
 		{ "predicate": {"custom_model_data": 1}, "model": "item/rainbow/rainbow_pickaxe"},
-		{ "predicate": {"custom_model_data": 2}, "model": "item/extra/ultra_pickaxe"},
-		{ "predicate": {"custom_model_data": 3}, "model": "item/extra/legendary_pickaxe"},
-		{ "predicate": {"custom_model_data": 4}, "model": "item/extra/golddigger_pickaxe"},
-		{ "predicate": {"custom_model_data": 5}, "model": "item/extra/summer_pickaxe"},
-		{ "predicate": {"custom_model_data": 6}, "model": "item/extra/back2school_pickaxe"}
+		{ "predicate": {"custom_model_data": 2}, "model": "item/platinum/platinum_pickaxe"},
+		{ "predicate": {"custom_model_data": 3}, "model": "item/extra/ultra_pickaxe"},
+		{ "predicate": {"custom_model_data": 4}, "model": "item/extra/legendary_pickaxe"},
+		{ "predicate": {"custom_model_data": 5}, "model": "item/extra/golddigger_pickaxe"},
+		{ "predicate": {"custom_model_data": 6}, "model": "item/extra/summer_pickaxe"},
+		{ "predicate": {"custom_model_data": 7}, "model": "item/extra/back2school_pickaxe"}
     ]
 }

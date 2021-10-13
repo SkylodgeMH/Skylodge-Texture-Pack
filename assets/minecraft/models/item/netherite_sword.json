@@ -22,6 +22,6 @@
 		{ "predicate": {"custom_model_data": 16}, "model": "item/tarzan/tarzan_sword"},
 		{ "predicate": {"custom_model_data": 17}, "model": "item/angel/angel_sword"},
 		{ "predicate": {"custom_model_data": 18}, "model": "item/archangel/archangel_sword"},
-		{ "predicate": {"custom_model_data": 19}, "model": "item/trumpeteer_sword"}
+		{ "predicate": {"custom_model_data": 19}, "model": "item/trumpeteer/trumpeteer_sword"}
     ]
 }
