@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/light/light_leggings",
+    "layer1": "minecraft:item/light/light_leggings"
+  }
+}

@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/enchanting_table",
     "overrides": [
-        { "predicate": {"custom_model_data": 1}, "model": "item/code_ingot"}
+        { "predicate": {"custom_model_data": 1}, "model": "item/extra/code_ingot"}
     ]
 }

@@ -4,8 +4,8 @@
 		"layer0": "item/firework_rocket"
 	},
     "overrides": [
-        { "predicate": {"custom_model_data": 1}, "model": "item/zoom_rockets"},
-        { "predicate": {"custom_model_data": 2}, "model": "item/power_rockets"},
-        { "predicate": {"custom_model_data": 3}, "model": "item/marathon_rockets"}
+        { "predicate": {"custom_model_data": 1}, "model": "item/extra/zoom_rockets"},
+        { "predicate": {"custom_model_data": 2}, "model": "item/extra/power_rockets"},
+        { "predicate": {"custom_model_data": 3}, "model": "item/extra/marathon_rockets"}
     ]
 }

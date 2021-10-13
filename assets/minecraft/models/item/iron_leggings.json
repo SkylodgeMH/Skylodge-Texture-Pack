@@ -4,6 +4,6 @@
         "layer0": "item/iron_leggings"
     },
 	 "overrides": [
-        { "predicate": {"damage": 1.0}, "model": "item/platinum_leggings"}
+        { "predicate": {"custom_model_data": 1.0}, "model": "item/platinum/platinum_leggings"}
 		]
 }

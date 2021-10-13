@@ -1,9 +1,6 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/glass",
-    },
+    "parent": "block/glass",
 	 "overrides": [
-		{ "predicate": {"custom_model_data": 1}, "model": "item/glass_prism"}
+		{ "predicate": {"custom_model_data": 1}, "model": "item/extra/glass_prism"}
 		]
 }

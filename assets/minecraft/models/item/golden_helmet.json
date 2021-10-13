@@ -4,6 +4,6 @@
         "layer0": "item/golden_helmet"
     },
 	 "overrides": [
-        { "predicate": {"damage": 1.0}, "model": "item/hades_helmet"}
+        { "predicate": {"custom_model_data": 1.0}, "model": "item/hades/hades_helmet"}
 		]
 }
