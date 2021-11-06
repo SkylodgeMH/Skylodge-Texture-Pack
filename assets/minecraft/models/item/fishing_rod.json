@@ -1,0 +1,23 @@
+{
+    "parent": "item/handheld_rod",
+	"textures": {
+		"layer0": "item/fishing_rod"
+	},
+    "overrides": [
+		{ "predicate": {"cast": 1}, "model": "item/rods/fishing_rod_cast"},
+        { "predicate": {"custom_model_data": 1}, "model": "item/rods/reinforced_fishing_rod"},
+		{ "predicate": {"custom_model_data": 1, "cast": 1}, "model": "item/rods/reinforced_fishing_rod_cast"},
+        { "predicate": {"custom_model_data": 2}, "model": "item/rods/fleshcatcher_fishing_rod"},
+		{ "predicate": {"custom_model_data": 2, "cast": 1}, "model": "item/rods/fleshcatcher_fishing_rod_cast"},
+        { "predicate": {"custom_model_data": 3}, "model": "item/rods/chum_caster_fishing_rod"},
+		{ "predicate": {"custom_model_data": 3, "cast": 1}, "model": "item/rods/chum_caster_fishing_rod_cast"},
+        { "predicate": {"custom_model_data": 4}, "model": "item/rods/fiberglass_fishing_rod"},
+		{ "predicate": {"custom_model_data": 4, "cast": 1}, "model": "item/rods/fiberglass_fishing_rod_cast"},
+        { "predicate": {"custom_model_data": 5}, "model": "item/rods/mechanics_fishing_rod"},
+		{ "predicate": {"custom_model_data": 5, "cast": 1}, "model": "item/rods/mechanics_fishing_rod_cast"},
+        { "predicate": {"custom_model_data": 6}, "model": "item/rods/sitting_ducks_fishing_rod"},
+		{ "predicate": {"custom_model_data": 6, "cast": 1}, "model": "item/rods/sitting_ducks_fishing_rod_cast"},
+        { "predicate": {"custom_model_data": 7}, "model": "item/rods/golden_fishing_rod"},
+		{ "predicate": {"custom_model_data": 7, "cast": 1}, "model": "item/rods/golden_fishing_rod_cast"}
+    ]
+}

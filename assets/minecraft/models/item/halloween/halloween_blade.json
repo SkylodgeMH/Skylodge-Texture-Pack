@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/extra/halloween_blade"
+    "layer0": "minecraft:item/halloween/halloween_blade"
   }
 }

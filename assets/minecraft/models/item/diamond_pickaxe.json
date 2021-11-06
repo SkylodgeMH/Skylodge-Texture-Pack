@@ -11,6 +11,7 @@
 		{ "predicate": {"custom_model_data": 5}, "model": "item/extra/golddigger_pickaxe"},
 		{ "predicate": {"custom_model_data": 6}, "model": "item/extra/summer_pickaxe"},
 		{ "predicate": {"custom_model_data": 7}, "model": "item/extra/back2school_pickaxe"},
-		{ "predicate": {"custom_model_data": 8}, "model": "item/extra/halloween_pickaxe"}
+		{ "predicate": {"custom_model_data": 8}, "model": "item/halloween/halloween_pickaxe"},
+		{ "predicate": {"custom_model_data": 666}, "model": "item/halloween/scream_pickaxe"}
     ]
 }

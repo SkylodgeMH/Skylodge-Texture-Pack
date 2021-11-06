@@ -8,7 +8,8 @@
 		{ "predicate": {"custom_model_data": 2}, "model": "item/platinum/platinum_sword"},
 		{ "predicate": {"custom_model_data": 3}, "model": "item/extra/pickle_rick"},
 		{ "predicate": {"custom_model_data": 4}, "model": "item/extra/koth_blade"},
-		{ "predicate": {"custom_model_data": 5}, "model": "item/extra/halloween_blade"}
+		{ "predicate": {"custom_model_data": 5}, "model": "item/halloween/halloween_blade"},
+		{ "predicate": {"custom_model_data": 666}, "model": "item/halloween/scream_blade"}
 		
     ]
 }

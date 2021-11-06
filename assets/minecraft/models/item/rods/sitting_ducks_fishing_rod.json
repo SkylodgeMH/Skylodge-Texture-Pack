@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld_rod",
+	"textures": {
+		"layer0": "item/rods/sitting_ducks_fishing_rod"
+	}
+}
