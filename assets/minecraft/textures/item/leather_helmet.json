@@ -1,0 +1,30 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_helmet",
+        "layer1": "item/leather_helmet_overlay"
+    },
+	 "overrides": [
+        { "predicate": {"damage": 1.0}, "model": "item/rainbow/rainbow_helmet"},
+		{ "predicate": {"custom_model_data": 1}, "model": "item/emerald/emerald_helmet"},
+		{ "predicate": {"custom_model_data": 2}, "model": "item/sapphire/sapphire_helmet"},
+		{ "predicate": {"custom_model_data": 3}, "model": "item/ruby/ruby_helmet"},
+		{ "predicate": {"custom_model_data": 4}, "model": "item/amethyst/amethyst_helmet"},
+		{ "predicate": {"custom_model_data": 5}, "model": "item/obsidian/obsidian_helmet"},
+		{ "predicate": {"custom_model_data": 6}, "model": "item/ice/ice_helmet"},
+		{ "predicate": {"custom_model_data": 7}, "model": "item/mummy/mummy_helmet"},
+		{ "predicate": {"custom_model_data": 8}, "model": "item/magma/magma_helmet"},
+		{ "predicate": {"custom_model_data": 9}, "model": "item/light/light_helmet"},
+		{ "predicate": {"custom_model_data": 10}, "model": "item/luminous/luminous_helmet"},
+		{ "predicate": {"custom_model_data": 11}, "model": "item/shadow/shadow_helmet"},
+		{ "predicate": {"custom_model_data": 12}, "model": "item/void/void_helmet"},
+		{ "predicate": {"custom_model_data": 13}, "model": "item/victorian/victorian_helmet"},
+		{ "predicate": {"custom_model_data": 14}, "model": "item/steampunk/steampunk_helmet"},
+		{ "predicate": {"custom_model_data": 15}, "model": "item/jungle/jungle_helmet"},
+		{ "predicate": {"custom_model_data": 16}, "model": "item/tarzan/tarzan_helmet"},
+		{ "predicate": {"custom_model_data": 17}, "model": "item/angel/angel_helmet"},
+		{ "predicate": {"custom_model_data": 18}, "model": "item/archangel/archangel_helmet"},
+		{ "predicate": {"custom_model_data": 19}, "model": "item/trumpeteer/trumpeteer_helmet"},
+		{ "predicate": {"custom_model_data": 666}, "model": "item/halloween/scream_helmet"}
+		]
+}
