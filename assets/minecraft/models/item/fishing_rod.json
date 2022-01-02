@@ -18,6 +18,8 @@
         { "predicate": {"custom_model_data": 6}, "model": "item/rods/sitting_ducks_fishing_rod"},
 		{ "predicate": {"custom_model_data": 6, "cast": 1}, "model": "item/rods/sitting_ducks_fishing_rod_cast"},
         { "predicate": {"custom_model_data": 7}, "model": "item/rods/golden_fishing_rod"},
-		{ "predicate": {"custom_model_data": 7, "cast": 1}, "model": "item/rods/golden_fishing_rod_cast"}
+		{ "predicate": {"custom_model_data": 7, "cast": 1}, "model": "item/rods/golden_fishing_rod_cast"},
+	{ "predicate": {"custom_model_data": 8}, "model": "item/grappling_hook"},
+		{ "predicate": {"custom_model_data": 8, "cast": 1}, "model": "item/grappling_hook_shot"}
     ]
 }
